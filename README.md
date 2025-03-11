@@ -18,7 +18,3 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rejwar&theme=github-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
