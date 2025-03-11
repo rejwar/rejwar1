@@ -21,29 +21,11 @@
 
 
 <div align="center">
-  <canvas id="contributionChart" width="400" height="200"></canvas>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <canvas id="particles" style="width: 100%; height: 300px;"></canvas>
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
   <script>
-    const ctx = document.getElementById('contributionChart').getContext('2d');
-    const myChart = new Chart(ctx, {
-      type: 'bar',
-      data: {
-        labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun'],
-        datasets: [{
-          label: 'Contributions',
-          data: [12, 19, 3, 5, 2, 3],
-          backgroundColor: 'rgba(75, 192, 192, 0.2)',
-          borderColor: 'rgba(75, 192, 192, 1)',
-          borderWidth: 1
-        }]
-      },
-      options: {
-        scales: {
-          y: {
-            beginAtZero: true
-          }
-        }
-      }
+    particlesJS.load('particles', 'particles.json', function() {
+      console.log('Particles.js loaded!');
     });
   </script>
 </div>
