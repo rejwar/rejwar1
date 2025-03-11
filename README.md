@@ -10,8 +10,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rejwar&icon=10&color=3)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rejwar&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
 
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rejwar&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&timeframe=all" alt="Contribution Graph" />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
