@@ -18,8 +18,3 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<div align="center">
-  <iframe src="https://threejs.org/examples/webgl_geometry_cube.html" width="100%" height="400px" style="border:none;"></iframe>
-</div>
