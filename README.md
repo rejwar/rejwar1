@@ -17,3 +17,5 @@
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rejwar&show_icons=true&count_private=true&theme=radical)
