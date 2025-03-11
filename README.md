@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rejwar&theme=dracula&bg_color=1e1e1e&color=ff79c6&line=8be9fd&point=50fa7b&area=true&hide_border=true&custom_title=🚀 My Coding Journey from Start! 🚀&from=2000-01-01&to=2099-12-31" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rejwar&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=My%20Contribution%20Graph%20(From%20Start)&from=2000-01-01&to=2099-12-31" alt="Contribution Graph" />
 </div>
 
 
