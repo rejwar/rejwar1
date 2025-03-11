@@ -21,11 +21,5 @@
 
 
 <div align="center">
-  <canvas id="particles" style="width: 100%; height: 300px;"></canvas>
-  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-  <script>
-    particlesJS.load('particles', 'particles.json', function() {
-      console.log('Particles.js loaded!');
-    });
-  </script>
+  <iframe src="https://threejs.org/examples/webgl_geometry_cube.html" width="100%" height="400px" style="border:none;"></iframe>
 </div>
