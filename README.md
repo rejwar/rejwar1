@@ -20,3 +20,46 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+<div align="center">
+  <div class="glitch" style="position: relative;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rejwar&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+    <div class="glitch__layers">
+      <div class="glitch__layer"></div>
+      <div class="glitch__layer"></div>
+      <div class="glitch__layer"></div>
+    </div>
+  </div>
+  <style>
+    .glitch {
+      position: relative;
+      width: 100%;
+      height: auto;
+    }
+    .glitch__layers {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+    .glitch__layer {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: url(https://github-readme-activity-graph.vercel.app/graph?username=rejwar&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true);
+      opacity: 0.8;
+      mix-blend-mode: difference;
+      animation: glitch 1s infinite;
+    }
+    @keyframes glitch {
+      0% { transform: translate(0); }
+      20% { transform: translate(-5px, 5px); }
+      40% { transform: translate(-5px, -5px); }
+      60% { transform: translate(5px, 5px); }
+      80% { transform: translate(5px, -5px); }
+      100% { transform: translate(0); }
+    }
+  </style>
+</div>
