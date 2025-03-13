@@ -4,7 +4,7 @@
 ---
 
 
-<!--[![](https://visitcount.itsvg.in/api?id=rejwar&icon=10&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rejwar&icon=10&color=3)](https://visitcount.itsvg.in)
 
 
 <!--Graph Box👇🏿 -->
