@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rejwar&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)
 ---
 
-![Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rejwar&theme=dark)
+
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rejwar&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
@@ -20,6 +20,10 @@
 ![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rejwar&theme=dark) <br>
 
 [![](https://visitcount.itsvg.in/api?id=rejwar&icon=10&color=3)](https://visitcount.itsvg.in)
+
+
+<!--Contribution In the last Year-->
+![Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rejwar&theme=dark)
 
 
 <!--Graph Box👇🏿 -->
