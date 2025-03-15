@@ -17,3 +17,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejwar&layout=compact&theme=dark&hide_border=true&langs_count=6&exclude_repo=repo1,repo2" alt="Top Languages" />
+</div>
