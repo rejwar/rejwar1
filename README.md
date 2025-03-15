@@ -13,7 +13,7 @@
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rejwar&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![Commits (UTC +8.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rejwar&theme=dark&utcOffset=8)
+![Commits (GMT +6.00)](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rejwar&theme=dark&utcOffset=8)
 
 ![Top Language by Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rejwar&theme=dark)
 
