@@ -33,5 +33,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rejwar&theme=dark)
 
 
