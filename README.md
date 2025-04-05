@@ -35,4 +35,7 @@
 
 ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rejwar&theme=dark)
 
+![Language Commit Distribution](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rejwar&theme=dark)
+
+
 
