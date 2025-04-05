@@ -38,4 +38,5 @@
 ![Language Commit Distribution](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rejwar&theme=dark)
 
 
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rejwar&theme=dark)
 
