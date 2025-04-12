@@ -24,14 +24,6 @@
 ![Contributions in the last year](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rejwar&theme=dark)
 
 
-<!--Graph Box👇🏿 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rejwar&theme=xcode&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
