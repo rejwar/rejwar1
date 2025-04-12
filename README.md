@@ -27,10 +27,4 @@
 
 
 
-<!-- Copy-paste in your Readme.md file -->
-
-[![Dashboard stats of @rejwar](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=21979&image_size=auto&color_scheme=light)](https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=21979)
-
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
